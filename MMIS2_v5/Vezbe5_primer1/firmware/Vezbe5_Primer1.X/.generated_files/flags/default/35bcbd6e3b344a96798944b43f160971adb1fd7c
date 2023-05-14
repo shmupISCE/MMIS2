@@ -1,0 +1,5 @@
+<<<<<<< HEAD:VeÅ¾be/VeÅ¾be 5/Vezbe5_primer1/firmware/Vezbe5_Primer1.X/.generated_files/flags/default/35bcbd6e3b344a96798944b43f160971adb1fd7c
+ $(MP_EXTRA_CC_PRE)  -g -x c -c -mprocessor=$(MP_PROCESSOR_OPTION)  -ffunction-sections -O1 -fno-common -I"../src" -I"../src/config/default" -Werror -Wall   -DXPRJ_default=$(CND_CONF)  -no-legacy-libc  $(COMPARISON_BUILD)  -mdfp="${DFP_DIR}"  C:\Users\PC\Desktop\MMIS2\Vežbe\Vežbe 5\Vezbe5_primer1\firmware\src\main.c
+=======
+ $(MP_EXTRA_CC_PRE)  -g -x c -c -mprocessor=$(MP_PROCESSOR_OPTION)  -ffunction-sections -O1 -fno-common -I"../src" -I"../src/config/default" -Werror -Wall   -DXPRJ_default=$(CND_CONF)  -no-legacy-libc  $(COMPARISON_BUILD)  -mdfp="${DFP_DIR}"  C:\Users\Djordje\HarmonyProjects\MyProject_5\firmware\src\ili9341.c
+>>>>>>> 291a1678eb048020a4d6ffa6e1b12528cbea8c86:Predavanja/kodovi_5/firmware/EasyTFT.X/.generated_files/flags/default/16c8a4af82c8ffc02617c54387b873b00ffc5670
